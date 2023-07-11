@@ -11,8 +11,7 @@ This project aims to develop a predictive model for selecting the best team for 
 - [Model Training](#model-training)
 - [Evaluation](#evaluation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
